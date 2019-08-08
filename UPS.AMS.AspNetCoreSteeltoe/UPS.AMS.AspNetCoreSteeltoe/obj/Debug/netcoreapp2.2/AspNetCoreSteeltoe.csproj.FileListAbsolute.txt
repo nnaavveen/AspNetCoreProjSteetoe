@@ -1,0 +1,13 @@
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\bin\Debug\netcoreapp2.2\AspNetCoreSteeltoe.deps.json
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\bin\Debug\netcoreapp2.2\AspNetCoreSteeltoe.runtimeconfig.json
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\bin\Debug\netcoreapp2.2\AspNetCoreSteeltoe.runtimeconfig.dev.json
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\bin\Debug\netcoreapp2.2\AspNetCoreSteeltoe.dll
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\bin\Debug\netcoreapp2.2\AspNetCoreSteeltoe.pdb
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.csproj.CoreCompileInputs.cache
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.RazorAssemblyInfo.cache
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.RazorAssemblyInfo.cs
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.AssemblyInfoInputs.cache
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.AssemblyInfo.cs
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.RazorTargetAssemblyInfo.cache
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.dll
+D:\AspNetCoreSteeltoe\AspNetCoreSteeltoe\obj\Debug\netcoreapp2.2\AspNetCoreSteeltoe.pdb
